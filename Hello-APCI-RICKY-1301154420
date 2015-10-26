@@ -1,0 +1,6 @@
+1.	Program Hello;
+Uses Crt; 
+Begin
+1.	<="" span="" 13.3333px;"="">ClrScr;
+<="" span="">Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar 
+2.	End.
